@@ -92,16 +92,12 @@ Express.js
 
 <br>
 
-<h2>GitHub Stats</h2>
 
-<p align="left">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=riyajulislam9545&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajulislam9545&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <b>⭐ Thanks for Check Out My Profile!</b>
+  <br/>
+  Keep learning • Keep building • Keep growing 🚀 
+              Let's Grow Together😊
 </p>
 
 
