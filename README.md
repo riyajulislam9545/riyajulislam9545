@@ -11,7 +11,7 @@
   <a href="https://github.com/riyajulislam9545">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=007BFF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=riyajulislam9545&label=Profile%20Views&color=007BFF&style=for-the-badge" />
 </p>
 
 
@@ -91,6 +91,26 @@ Express.js
 </ul>
 
 <br>
+
+<h2 align="center">📬 Contact with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/md-riyajul-islam-10a781408/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqYaKE%2FtoR9yWWs6o1uJi0Q%3D%3D)/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/https://www.facebook.com/share/1KftAsF6mk/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/md_riyajul_islam/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/riyajulislam9545" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
 
 
 <p align="center">
