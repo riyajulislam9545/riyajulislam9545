@@ -3,9 +3,17 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00D4FF&height=220&section=header&text=MD%20RIYAJUL%20ISLAM&fontSize=45&fontColor=FFFFFF&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=20&descAlignY=48&descAlign=50&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Learning%20in%20every%20moment&fontSize=16&fontColor=FFFFFF&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00D4FF&height=230&section=header&text=MD%20RIYAJUL%20ISLAM&fontSize=45&fontColor=FFFFFF&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Learning%20From%20Every%20Moment&descSize=16&descAlignY=52&animation=fadeIn" width="100%" />
+
+<!-- GitHub Profile & Profile Views -->
+<p align="center">
+  <a href="https://github.com/riyajulislam9545">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=007BFF&style=for-the-badge" />
+</p>
+
 
 
 <h2>About Me</h2>
@@ -95,3 +103,8 @@ Express.js
   <img height="170"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajulislam9545&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:00BFFF,100:00E5FF&height=120&section=footer&animation=fadeIn" width="100%" />
+
+
