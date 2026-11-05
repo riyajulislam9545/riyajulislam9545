@@ -92,18 +92,19 @@ Express.js
 
 <br>
 
+
 <h2 align="center">📬 Contact with me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/md-riyajul-islam-10a781408/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqYaKE%2FtoR9yWWs6o1uJi0Q%3D%3D)/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-riyajul-islam/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/https://www.facebook.com/share/1KftAsF6mk/" target="_blank">
+  <a href="https://www.facebook.com/riyajul.ahmed.niloy.2025" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/md_riyajul_islam/" target="_blank">
+  <a href="https://www.instagram.com/md__riyajul__islam/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   &nbsp;
