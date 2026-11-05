@@ -2,6 +2,8 @@
   <img src="banner.png" width="100%" alt="MD Riyajul Islam GitHub Banner">
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header" width="100%" />
+
 <h2>About Me</h2>
 
 <p>
