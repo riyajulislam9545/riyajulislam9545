@@ -3,7 +3,9 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00D4FF&height=200&section=header&text=MD%20RIYAJUL%20ISLAM&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00D4FF&height=220&section=header&text=MD%20RIYAJUL%20ISLAM&fontSize=45&fontColor=FFFFFF&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=20&descAlignY=48&descAlign=50&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Learning%20in%20every%20moment&fontSize=16&fontColor=FFFFFF&fontAlignY=50" width="100%" />
 
 
 <h2>About Me</h2>
